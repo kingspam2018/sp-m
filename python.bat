@@ -1,0 +1,2 @@
+py hidespam.py
+pause
